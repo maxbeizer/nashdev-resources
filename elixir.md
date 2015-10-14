@@ -9,3 +9,7 @@ language.
 ## Phoenix framework
 * [Guides](http://www.phoenixframework.org/docs/overview)
 * [Docs](http://hexdocs.pm/phoenix/Phoenix.html)
+
+## Ecto
+* [Docs](http://hexdocs.pm/ecto/Ecto.html)
+* [Talk by José Valim](https://youtu.be/SJRfujy9vLA)
