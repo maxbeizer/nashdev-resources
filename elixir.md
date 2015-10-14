@@ -5,3 +5,7 @@ language.
 ## Official Documentation
 * http://elixir-lang.org/docs.html
 * [Crash course](http://elixir-lang.org/crash-course.html)
+
+## Phoenix framework
+* [Guides](http://www.phoenixframework.org/docs/overview)
+* [Docs](http://hexdocs.pm/phoenix/Phoenix.html)
