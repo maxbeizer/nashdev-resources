@@ -2,9 +2,12 @@
 A collection of resources for the [Elixir](http://elixir-lang.org/) programming
 language.
 
-## Official Documentation
+## Official documentation
 * http://elixir-lang.org/docs.html
 * [Crash course](http://elixir-lang.org/crash-course.html)
+
+## Beginner-focused resources
+* [Lean Elixir in Y Minutes](http://learnxinyminutes.com/docs/elixir/)
 
 ## Phoenix framework
 * [Guides](http://www.phoenixframework.org/docs/overview)
