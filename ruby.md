@@ -6,12 +6,13 @@ programming language.
 * [ruby-lang docs](https://www.ruby-lang.org/en/documentation/)
 
 ## Getting started
-* [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 * [Koans](http://rubykoans.com/)
+* [Ruby Monk](https://rubymonk.com/)
+* [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 
 ## Tools
-* [Ruby Gems](https://rubygems.org/)
 * [Awesome Ruby](https://github.com/markets/awesome-ruby)
+* [Ruby Gems](https://rubygems.org/)
 
 ## Ruby on Rails
 * [Rails Guides](http://guides.rubyonrails.org/)
