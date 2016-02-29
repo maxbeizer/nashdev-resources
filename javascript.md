@@ -19,3 +19,6 @@ React works: React uses cascading components to display and act on state in the
 DOM; Redux uses cascading functions to store and update state through basic data
 structures.  It's just two trees. One in the DOM, one in a series of composed
 functions.
+
+## Redux
+* [Dan Abramov on egghead.io](https://egghead.io/series/getting-started-with-redux)
