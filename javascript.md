@@ -9,6 +9,7 @@ programming language.
 
 ### Getting started
 * [Intro to Redux with Dan Abramov](https://www.youtube.com/watch?v=xsSnOQynTHs)
+* [Scotch.io 's getting started with React](https://scotch.io/courses/getting-started-with-facebooks-react-js)
 
 Thoughts from @joshmock on Redux/Flux:
 > The thing that I think helps explain it to others, personally, is that
