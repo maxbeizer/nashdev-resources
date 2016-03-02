@@ -22,3 +22,4 @@ functions.
 
 ## Redux
 * [Dan Abramov on egghead.io](https://egghead.io/series/getting-started-with-redux)
+* [Full stack Redux tutorial (with tests)](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
