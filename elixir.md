@@ -8,6 +8,7 @@ language.
 
 ## Beginner-focused resources
 * [Lean Elixir in Y Minutes](http://learnxinyminutes.com/docs/elixir/)
+* [Elixir School](https://elixirschool.com/)
 
 ## Phoenix framework
 * [Guides](http://www.phoenixframework.org/docs/overview)
