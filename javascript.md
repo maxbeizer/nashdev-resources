@@ -8,8 +8,9 @@ programming language.
 * [docs](https://facebook.github.io/react/docs/getting-started.html)
 
 ### Getting started
-* [Intro to Redux with Dan Abramov](https://www.youtube.com/watch?v=xsSnOQynTHs)
 * [Scotch.io 's getting started with React](https://scotch.io/courses/getting-started-with-facebooks-react-js)
+* [React in 15 minutes on youtube](https://www.youtube.com/watch?v=PGUMRVowdv8)
+* [React and Redux list of links, tutorials, and guides](https://github.com/markerikson/react-redux-links)
 
 Thoughts from @joshmock on Redux/Flux:
 > The thing that I think helps explain it to others, personally, is that
@@ -21,6 +22,7 @@ structures.  It's just two trees. One in the DOM, one in a series of composed
 functions.
 
 ## Redux
+* [Intro to Redux with Dan Abramov](https://www.youtube.com/watch?v=xsSnOQynTHs)
 * [Dan Abramov on egghead.io](https://egghead.io/series/getting-started-with-redux)
 * [Full stack Redux tutorial (with tests)](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [Redux intro recording from our own @joshmock](https://youtu.be/1p9Q-JgRzH8)
