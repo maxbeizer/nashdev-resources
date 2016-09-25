@@ -17,3 +17,8 @@ programming language.
 ## Ruby on Rails
 * [Rails Guides](http://guides.rubyonrails.org/)
 * [The Michael Hartl Tutorial](https://www.railstutorial.org/book)
+* [Rails + React + Relay + Graphql](http://www.startuplandia.io/posts/rails-react-relay-graphql-tutorial-application-setup/)
+* [Rails fragment caching](https://www.driftingruby.com/episodes/fragment-caching) (video tutorial)
+
+## Good to knows
+* [https://www.practicingruby.com/articles/ways-to-load-code understanding how to load files](https://www.practicingruby.com/articles/ways-to-load-code)
