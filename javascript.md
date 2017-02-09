@@ -12,6 +12,8 @@ programming language.
 * [React in 15 minutes on youtube](https://www.youtube.com/watch?v=PGUMRVowdv8)
 * [React and Redux list of links, tutorials, and guides](https://github.com/markerikson/react-redux-links)
 * [https://github.com/timarney/react-faq React FAQ](https://github.com/timarney/react-faq)
+* [Wes Bos's React course](https://reactforbeginners.com/)
+* [Egghead Course on React](https://egghead.io/courses)
 
 Thoughts from @joshmock on Redux/Flux:
 > The thing that I think helps explain it to others, personally, is that
