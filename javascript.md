@@ -3,6 +3,10 @@ A collection of resources for the
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 programming language.
 
+## General JavaScript
+* [https://github.com/Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code#readme)
+  useful JS snippets and basic CS concepts in JavaScript
+
 ## ReactJS
 ### Official documentation
 * [docs](https://facebook.github.io/react/docs/getting-started.html)
