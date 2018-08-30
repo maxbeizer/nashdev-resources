@@ -6,6 +6,7 @@ programming language.
 ## General JavaScript
 * [https://github.com/Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code#readme)
   useful JS snippets and basic CS concepts in JavaScript
+* [Node Hackathon Starter](https://github.com/sahat/hackathon-starter) A great README of a good hackathon starter using NodeJS, Bootstrap, and a bunch of other helpful stuff
 
 ## ReactJS
 ### Official documentation
