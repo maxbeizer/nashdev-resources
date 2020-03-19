@@ -15,6 +15,7 @@ Resources that are not specific to any particular language.
 * Decipher shell commands/scripts: https://explainshell.com/
 * Fiddler debugging proxy: https://www.telerik.com/fiddler
 * A cool [Twitter thread](https://twitter.com/janescott_/status/1144134954353217536?s=12) on cracking/hacking
+* https://jeffrafter.com/working-with-github-actions/ : a blog post on using GitHub Actions
 
 ## Postgresql
 * [https://www.pgexercises.com/ PGSQL exercises](https://www.pgexercises.com/)
