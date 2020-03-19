@@ -14,3 +14,4 @@
 
 * [Velocity NY 2013: Richard Cook, "Resilience In Complex Adaptive Systems"](https://www.youtube.com/watch?v=PGLYEDpNu60)
 * [An essay on Alerting and Monitoring from a former Google SRE](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview)
+* https://sysadmincasts.com/episodes tutorial videos for ops folks
