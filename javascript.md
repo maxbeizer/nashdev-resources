@@ -33,6 +33,10 @@ DOM; Redux uses cascading functions to store and update state through basic data
 structures.  It's just two trees. One in the DOM, one in a series of composed
 functions.
 
+### Advanced
+
+* https://advancedreact.com/ : Wes Bos course on advanced React
+
 ## Redux
 
 * [Intro to Redux with Dan Abramov](https://www.youtube.com/watch?v=xsSnOQynTHs)
