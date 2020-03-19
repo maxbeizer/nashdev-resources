@@ -9,6 +9,7 @@
 * https://gophercises.com/ : exercises in Go
 * https://www.ardanlabs.com/ultimate-go/ : training in Go
 * https://github.com/Pungyeon/clean-go-article : Clean Go manifesto
+* https://golangbot.com/ : series of posts about learning Go
 
 ## Books
 
