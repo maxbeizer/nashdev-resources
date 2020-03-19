@@ -36,6 +36,7 @@ functions.
 ### Advanced
 
 * https://advancedreact.com/ : Wes Bos course on advanced React
+* https://www.robinwieruch.de/react-graphql-apollo-tutorial : Multipart series on React/GraphQL/Apollo
 
 ## Redux
 
