@@ -14,6 +14,7 @@ Resources that are not specific to any particular language.
 * [A coding game to learn new skills](https://www.codingame.com/start)
 * Decipher shell commands/scripts: https://explainshell.com/
 * Fiddler debugging proxy: https://www.telerik.com/fiddler
+* A cool [Twitter thread](https://twitter.com/janescott_/status/1144134954353217536?s=12) on cracking/hacking
 
 ## Postgresql
 * [https://www.pgexercises.com/ PGSQL exercises](https://www.pgexercises.com/)
