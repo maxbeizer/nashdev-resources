@@ -10,6 +10,7 @@
 * https://www.ardanlabs.com/ultimate-go/ : training in Go
 * https://github.com/Pungyeon/clean-go-article : Clean Go manifesto
 * https://golangbot.com/ : series of posts about learning Go
+* https://www.doxsey.net/blog/go-concurrency-from-the-ground-up Exploring concurrency in Go using Python
 
 ## Books
 
