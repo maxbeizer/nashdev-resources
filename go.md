@@ -6,6 +6,8 @@
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Go By Example](https://gobyexample.com/) Annotated examples of Go in practice
 * [O'Reilly Go Tutorials](https://learning.oreilly.com/videos/ultimate-go-programming/9780134757476)
+* https://gophercises.com/ : exercises in Go
+* https://www.ardanlabs.com/ultimate-go/ : training in Go
 
 ## Books
 
