@@ -23,6 +23,7 @@ programming language.
 * [https://github.com/timarney/react-faq React FAQ](https://github.com/timarney/react-faq)
 * [Wes Bos's React course](https://reactforbeginners.com/)
 * [Egghead Course on React](https://egghead.io/courses)
+* https://blog.hichroma.com/graphql-react-tutorial-part-1-6-d0691af25858 Beginner tutorial on GraphQL/React
 
 Thoughts from @joshmock on Redux/Flux:
 > The thing that I think helps explain it to others, personally, is that
