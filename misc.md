@@ -12,6 +12,7 @@ Resources that are not specific to any particular language.
 * [A guide to privacy and security](https://www.bestvpn.com/the-ultimate-privacy-guide/)
 * [HTTP Made Really Easy: A Practical Guide to Writing Clients and Servers](http://www.jmarshall.com/easy/http/)
 * [A coding game to learn new skills](https://www.codingame.com/start)
+* Decipher shell commands/scripts: https://explainshell.com/
 
 ## Postgresql
 * [https://www.pgexercises.com/ PGSQL exercises](https://www.pgexercises.com/)
