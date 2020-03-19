@@ -8,6 +8,7 @@
 * [O'Reilly Go Tutorials](https://learning.oreilly.com/videos/ultimate-go-programming/9780134757476)
 * https://gophercises.com/ : exercises in Go
 * https://www.ardanlabs.com/ultimate-go/ : training in Go
+* https://github.com/Pungyeon/clean-go-article : Clean Go manifesto
 
 ## Books
 
