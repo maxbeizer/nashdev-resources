@@ -17,3 +17,7 @@
 
 * [The Go Programming Language](https://www.gopl.io/)
 * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+
+## External Resources
+
+* [Awesome Go](https://github.com/avelino/awesome-go) : An extensive curated list of several thousand resources maintained by the Go community
