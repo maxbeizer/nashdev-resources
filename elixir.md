@@ -9,6 +9,7 @@ language.
 ## Beginner-focused resources
 * [Lean Elixir in Y Minutes](http://learnxinyminutes.com/docs/elixir/)
 * [Elixir School](https://elixirschool.com/)
+* [The Little Elixir & OTP Guidebook](https://www.amazon.com/dp/1633430111/ref=cm_sw_r_cp_api_glt_fabc_7GVEC2NGAGWCZC2K6H85)
 
 ## Phoenix framework
 * [Guides](http://www.phoenixframework.org/docs/overview)
